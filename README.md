@@ -8,9 +8,12 @@ Senior Full-Stack Engineer with 15+ years of experience building scalable web ap
 
 ### Tech stack
 
-**Backend:** TypeScript · NestJS · Node.js · Laravel  
-**Frontend:** React · React Native · JavaScript  
-**Tools:** Git · REST APIs · Passport / OAuth
+**Languages:** PHP · JavaScript · TypeScript · Bash  
+**Backend:** Node.js · NestJS · Laravel · Symfony · RabbitMQ  
+**Frontend:** React · React Native · Next.js · Vue.js · AngularJS · jQuery · Tailwind CSS · LESS  
+**Databases:** MySQL · MSSQL · PostgreSQL  
+**Cloud & DevOps:** AWS (EC2, S3, IAM) · Kubernetes · Docker · CI/CD (Buildkite) · OpenTelemetry · Datadog · Sumo Logic  
+**Platform & Tools:** Unix/Linux · GitHub CLI
 
 ---
 
