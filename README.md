@@ -13,7 +13,7 @@ Senior Full-Stack Engineer with 15+ years of experience building scalable web ap
 **Frontend:** React · React Native · Next.js · Vue.js · AngularJS · jQuery · Tailwind CSS · LESS  
 **Databases:** MySQL · MSSQL · PostgreSQL  
 **Cloud & DevOps:** AWS (EC2, S3, IAM) · Kubernetes · Docker · CI/CD (Buildkite) · OpenTelemetry · Datadog · Sumo Logic  
-**Platform & Tools:** Unix/Linux · GitHub CLI
+**Platform & Tools:** Unix/Linux · Bash · GitHub CLI
 
 ---
 
