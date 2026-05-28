@@ -2,17 +2,7 @@
 
 **Full-stack developer with a backend focus** · Melbourne, Australia
 
-I am one of the curious bunch — I like building things, learning how they work, and shipping clean, practical software.
-
----
-
-### About me
-
-- 🔭 Currently building with **React**, **React Native**, and **NestJS**
-- 🌱 Always exploring better patterns for APIs, auth, and app architecture
-- 💼 Open to collaborating on full-stack or backend-focused projects
-- 💬 Ask me about **TypeScript**, **Node/NestJS**, **React**, or **Laravel**
-- 🌐 Portfolio: [jovanjv.dev](https://www.jovanjv.dev)
+Senior Full-Stack Engineer with 15+ years of experience building scalable web applications, APIs, and integrations. Strong PHP background across Symfony and Laravel, with hands-on expertise in Node.js, TypeScript, and cloud infrastructure. Experienced in modernizing legacy platforms, improving performance, and delivering reliable systems that connect backend services with real-world business operations.
 
 ---
 
@@ -28,7 +18,7 @@ I am one of the curious bunch — I like building things, learning how they work
 
 | Project | Description |
 | --- | --- |
-| [Dashboard-ReactJS](https://github.com/jovanjay/Dashboard-ReactJS) | React dashboard |
+| [Dashboard-ReactJS](https://github.com/jovanjay/Dashboard-ReactJS) | React dashboard (http://reactjs.jovanjay.com) |
 | [SimpleNestjsStructure](https://github.com/jovanjay/SimpleNestjsStructure) | NestJS project structure |
 | [ReactNativeRegisterLoginApp](https://github.com/jovanjay/ReactNativeRegisterLoginApp) | React Native auth app with Laravel API |
 | [Enigma](https://github.com/jovanjay/Enigma) | TypeScript project |
