@@ -2,7 +2,7 @@
 
 **Full-stack developer with a backend focus** · Melbourne, Australia
 
-Senior Full-Stack Engineer with 15+ years of experience building scalable web applications, APIs, and integrations. Strong PHP background across Symfony and Laravel, with hands-on expertise in Node.js, TypeScript, and cloud infrastructure. Experienced in modernizing legacy platforms, improving performance, and delivering reliable systems that connect backend services with real-world business operations.
+Senior Full-Stack Engineer with 18+ years of experience building scalable web applications, APIs, and integrations. Strong PHP background across Symfony and Laravel, with hands-on expertise in Node.js, TypeScript, and cloud infrastructure. Experienced in modernizing legacy platforms, improving performance, and delivering reliable systems that connect backend services with real-world business operations.
 
 ---
 
@@ -12,7 +12,7 @@ Senior Full-Stack Engineer with 15+ years of experience building scalable web ap
 **Backend:** Node.js · NestJS · Laravel · Symfony · RabbitMQ  
 **Frontend:** React · React Native · Next.js · Vue.js · AngularJS · jQuery · Tailwind CSS · LESS  
 **Databases:** MySQL · MSSQL · PostgreSQL  
-**Cloud & DevOps:** AWS (EC2, S3, IAM) · Kubernetes · Docker · CI/CD (Buildkite) · OpenTelemetry · Datadog · Sumo Logic  
+**Cloud & DevOps:** AWS (EC2, S3, IAM) · Kubernetes · Docker · CI/CD (Buildkite) · OpenTelemetry · Datadog · Sumo Logic · Sentry  
 **Platform & Tools:** Unix/Linux · Bash · GitHub CLI
 
 ---
