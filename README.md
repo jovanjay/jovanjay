@@ -1,18 +1,18 @@
-# Jovan · Full-Stack Engineer 👋
+# Jovan Jay · Full-Stack Engineer 👋
 
 **Full-stack developer with a backend focus** · Melbourne, Australia
 
-Senior Full-Stack Engineer with 18+ years of experience building scalable web applications, APIs, and integrations. Strong PHP background across Symfony and Laravel, with hands-on expertise in Node.js, TypeScript, and cloud infrastructure. Experienced in modernizing legacy platforms, improving performance, and delivering reliable systems that connect backend services with real-world business operations.
+Senior Full-Stack Engineer with 18+ years of experience building scalable web applications, APIs, and integrations. Strong PHP background across Symfony and Laravel, with hands-on expertise in Node.js, TypeScript, and Cloud Infrastructure. Experienced in modernizing legacy platforms, improving performance, and delivering reliable systems that connect backend services with real-world business operations.
 
 ---
 
 ### Tech stack
 
-**Languages:** PHP · JavaScript · TypeScript · Bash  
+**Languages:** PHP · JavaScript · TypeScript · Bash · Python
 **Backend:** Node.js · NestJS · Laravel · Symfony · RabbitMQ  
 **Frontend:** React · React Native · Next.js · Vue.js · AngularJS · jQuery · Tailwind CSS · LESS  
 **Databases:** MySQL · MSSQL · PostgreSQL  
-**Cloud & DevOps:** AWS (EC2, S3, IAM) · Kubernetes · Docker · CI/CD (Buildkite) · OpenTelemetry · Datadog · Sumo Logic · Sentry  
+**Cloud & DevOps:** AWS (EC2, S3, IAM, Route 53, RDS, EKS) · Kubernetes · Docker · CI/CD (Buildkite) · OpenTelemetry · Datadog · Sumo Logic · Sentry  
 **Platform & Tools:** Unix/Linux · Bash · GitHub CLI
 
 ---
@@ -26,14 +26,6 @@ Senior Full-Stack Engineer with 18+ years of experience building scalable web ap
 | [ReactNativeRegisterLoginApp](https://github.com/jovanjay/ReactNativeRegisterLoginApp) | React Native auth app with Laravel API |
 | [Enigma](https://github.com/jovanjay/Enigma) | TypeScript project |
 | [SimpleProjectManagerTS](https://github.com/jovanjay/SimpleProjectManagerTS) | Drag-and-drop project manager in TypeScript |
-
----
-
-### GitHub stats
-
-![Jovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jovanjay&show_icons=true&theme=default&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jovanjay&layout=compact&hide_border=true)
 
 ---
 
